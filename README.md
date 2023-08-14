@@ -22,9 +22,9 @@ Directions:
 * Implement type hints for the function(s) within this file to improve readability. Use the functions I provided rectangle.py.
 5. Push Changes to Your Repository:
 * Navigate to your own repository's directory in the terminal.
-* Stage the changes:
+* Stage the changes
 * Commit the changes with a meaningful message
-* Push the changes to your repository:
+* Push the changes to your repository
 
 P.S.
 Run the Code in VSCode:
